@@ -40,3 +40,6 @@
     )
     publishCoverage adapters: [jacocoAdapter('**/target/site/jacoco/jacoco.xml')] 
   }
+
+
+  segundo cambio
